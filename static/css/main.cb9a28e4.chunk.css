@@ -1,0 +1,183 @@
+.aboutme_title__3o0hw {
+  text-align: center;
+  color: #fff;
+  font-family: "gagalin";
+  margin: 0 0 30px;
+  font-size: 30px;
+}
+.aboutme_img__1K7RL {
+  width: 30%;
+  height: 30%;
+  margin-right: 50px;
+}
+.aboutme_list__3yuwi {
+  color: #fff;
+  font-family: "comfortaa";
+  font-size: 25px;
+  line-height: 50px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.aboutme_list__3yuwi li {
+  margin: 0 0 19px 29px;
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+}
+.aboutme_list__3yuwi li:before {
+  content: "";
+  display: block;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: -29px;
+  top: 4px;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFAAAA////////////////////////////////////////////tAmN6QAAAAx0Uk5TAP+fXy/vD8+vb09/1pQHPQAAAGNJREFUeJxjYIABJmEGJKAoaIDgMAkKCiNLCQo6IEkJCqFIKQBpti3IUumiDkhShYIhSFKCgqIOMCkGRyAjAm4gsyAEKEDMNgRzYHYxI0tBJBHOYEaWAkkipECSSFIMDCthDADeHQtcdgrStgAAAABJRU5ErkJggg==");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+.aboutme_block__3WPxp {
+  display: flex;
+  justify-content: space-around;
+}
+.aboutme_aboutMe__1ioB_ {
+  height: 100vh;
+  margin: 5%;
+}
+.diploms_imgDiploms__q_t-J {
+  display: block;
+  width: 1000px;
+  height: 700px;
+  margin: 0 auto;
+}
+.diploms_title__2j7wu {
+  text-align: center;
+  color: #fff;
+  font-family: "gagalin";
+  font-size: 30px;
+}
+.diploms_diploms__3XAuS {
+  height: 100vh;
+}
+.diploms_carousel__1IE01 div button {
+  background-color: #60346b !important;
+  height: 10px !important;
+}
+.examples_title__erpmd {
+  width: 100%;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+  margin: 0 0 29px;
+  font-family: "gagalin";
+}
+.examples_section__3pQXY {
+  width: 100%;
+  padding: 50px 145px;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.examples_card__2VWaT {
+  box-sizing: border-box;
+  background-color: #60346b;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+  height: 655px;
+}
+.examples_listUl__130fU {
+  width: 300px;
+}
+.examples_card__2VWaT:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+img {
+  display: block;
+  border-radius: 10px;
+}
+.examples_cardText__iFzOs {
+  display: block;
+  text-align: center;
+  font-family: "gagalin";
+  font-weight: 400;
+  width: 300px;
+  margin: 5px 0;
+}
+@font-face {
+  font-family: "comfortaa";
+  src: url("../../static/media/comfortaa-light.a5389d8a.ttf");
+}
+@font-face {
+  font-family: "gagalin";
+  src: url("../../static/media/gagalin-regular.6bc22931.otf");
+}
+.feedback_nameFactor__37-5z {
+  font-weight: 700;
+  color: #60346b;
+}
+.feedback_feedback__fssDN {
+  color: #fff;
+  font-family: "comfortaa";
+  padding: 10px 0 100px 10px;
+  box-sizing: border-box;
+  border-top: 1px solid #fff;
+}
+.feedback_date__1tL2j {
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+}
+.feedback_title__1w8sc {
+  text-align: center;
+  color: #fff;
+  font-family: "gagalin";
+  margin: 0 0 30px;
+  font-size: 30px;
+}
+a {
+  display: block;
+}
+.feedback_links__2901N {
+  width: 20%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+i:hover {
+  color: #60346b;
+}
+i:active {
+  color: #fff;
+}
+.header_menu__2DTkv {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 95%;
+  z-index: 9999;
+}
+.header_menu__2DTkv div button {
+  background-color: #60346b;
+  border: 1px solid #231327 !important;
+  display: block;
+}
+a {
+  text-decoration: none !important;
+  color: #fff !important;
+}
+.portfolio_header_portfolio__2wa1y {
+  position: absolute;
+  top: 95%;
+}
+/*# sourceMappingURL=main.cb9a28e4.chunk.css.map */

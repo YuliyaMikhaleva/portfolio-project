@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb9a28e4.chunk.css",
+    "main.js": "/static/js/main.0848c19e.chunk.js",
+    "main.js.map": "/static/js/main.0848c19e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.59692c60.js",
+    "runtime-main.js.map": "/static/js/runtime-main.59692c60.js.map",
+    "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
+    "static/js/2.b8d7697b.chunk.js": "/static/js/2.b8d7697b.chunk.js",
+    "static/js/2.b8d7697b.chunk.js.map": "/static/js/2.b8d7697b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.cb9a28e4.chunk.css.map": "/static/css/main.cb9a28e4.chunk.css.map",
+    "static/js/2.b8d7697b.chunk.js.LICENSE.txt": "/static/js/2.b8d7697b.chunk.js.LICENSE.txt",
+    "static/media/feedback.module.css": "/static/media/gagalin-regular.6bc22931.otf",
+    "static/media/diplom1.1b00651e.jpg": "/static/media/diplom1.1b00651e.jpg",
+    "static/media/diplom2.f89fffb6.jpg": "/static/media/diplom2.f89fffb6.jpg",
+    "static/media/diplom3.89e17822.jpg": "/static/media/diplom3.89e17822.jpg",
+    "static/media/diplom4.658ed451.jpg": "/static/media/diplom4.658ed451.jpg",
+    "static/media/diplom5.f10465a0.jpg": "/static/media/diplom5.f10465a0.jpg",
+    "static/media/diplom6.b7376b8b.jpg": "/static/media/diplom6.b7376b8b.jpg",
+    "static/media/html1.2fed43f4.jpg": "/static/media/html1.2fed43f4.jpg",
+    "static/media/html2.edaa17a8.jpg": "/static/media/html2.edaa17a8.jpg",
+    "static/media/html3.be637583.jpg": "/static/media/html3.be637583.jpg",
+    "static/media/html4.2b6531e0.jpg": "/static/media/html4.2b6531e0.jpg",
+    "static/media/html5.a9209632.jpg": "/static/media/html5.a9209632.jpg",
+    "static/media/html6.21f897c2.jpg": "/static/media/html6.21f897c2.jpg",
+    "static/media/html7.e858d85d.jpg": "/static/media/html7.e858d85d.jpg",
+    "static/media/html8.dfee237f.jpg": "/static/media/html8.dfee237f.jpg",
+    "static/media/html9.a9248744.jpg": "/static/media/html9.a9248744.jpg",
+    "static/media/photo.705cee18.png": "/static/media/photo.705cee18.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59692c60.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.b8d7697b.chunk.js",
+    "static/css/main.cb9a28e4.chunk.css",
+    "static/js/main.0848c19e.chunk.js"
+  ]
+}

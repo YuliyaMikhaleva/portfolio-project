@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "gagalin";
+  src: url('./fonts/gagalin-regular.otf');
+}
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #231327 !important;
+  /*overflow:hidden;*/
+  /*height: 300px;*/
+}
+canvas {
+  padding: 0;
+  margin: 0;
+  /*height: 600px;*/
+  width: 100%;
+  height: 100vh;
+}
+div.btnbg {
+  position: fixed;
+  left: 0;
+  top: 0;
+  index: -1;
+}
+.title {
+  index: 1;
+  position: absolute;
+  /*border: 2px solid white;*/
+  width: 80%;
+  margin: 5% 10% 0 10%;
+  /*margin: 10%;*/
+  height: 400px;
+}
+.title-text {
+  margin: 166px auto;
+  text-align: center;
+  color: #231327;
+  font-family: "gagalin";
+  /*font-weight: bold;*/
+  font-size: 40px;
+}
+
+/*#root {*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*}*/
+
+.btn {
+  border: none;
+  padding: 8px;
+  box-sizing: border-box;
+  background-color: white !important;
+  font-size: 14px;
+  color: #402347 !important;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background-color: #402347 !important;
+  color: white !important;
+}
+.btn:active {
+  background-color: white !important;
+  color: #402347 !important;
+}
+
+.link {
+  padding-top: 100px;
+  margin-top: -100px;
+  background-clip: content-box;
+}
